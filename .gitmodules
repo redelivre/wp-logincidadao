@@ -1,0 +1,3 @@
+[submodule "login-cidadao"]
+	path = login-cidadao
+	url = git@github.com:redelivre/login-cidadao.git
